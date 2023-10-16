@@ -1,7 +1,8 @@
 # 🎛 Access Control
 
-\[WIP]
-
-Access control lets developers define what actions can be performed by each entity (human or digital).\
+Access control lets developers define what actions can be performed by each human or digital entity. \
 \
-A first iteration towards RBAC (Role-based access control).
+Based on OCAPs (Object Capabilities), it allows advanced permissions while also seamless integration with [SIWE](https://login.xyz/) (Sign in With Ethereum). This is enabled by [CAIP-196: CACAO](https://chainagnostic.org/CAIPs/caip-196).
+
+
+
