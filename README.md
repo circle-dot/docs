@@ -1,22 +1,22 @@
 ---
-description: The home for digital entities
+description: A blockchain for Autonomous Agents and DePIN projects
 ---
 
 # 👋 Welcome to Stamp ⊙
 
+<figure><img src=".gitbook/assets/stamplogo.png" alt="Stamp Logo - A circle and a dot in the middle. All yellow" width="129"><figcaption></figcaption></figure>
+
 ## What is Stamp Network?
 
-Stamp Network is an L2 blockchain relying on the robust security infrastructure of Ethereum, focusing on integrating digital entities. This network is set to reshape the interactions between Decentralized Physical Infrastructure (DePIN), autonomous agents, and humans as a facilitator in their coordination.
+Stamp Network is an L2 blockchain focusing on supporting digital entities. It's an OP Chain relying on the robust security infrastructure of Ethereum. \
+\
+This network is set to reshape the interactions between Decentralized Physical Infrastructure (DePIN), autonomous agents, and humans as a facilitator in their coordination.
 
-Stamp Network aspires to work as a bridge between bits and atoms. The more accurately we can map real-world actions, the more effectively we can coordinate incentives aiming to impact the world positively.
-
-
-
-
-
-<figure><img src=".gitbook/assets/stamplogo.png" alt="Stamp Logo - A circle and a dot in the middle. All yellow"><figcaption></figcaption></figure>
+Stamp Network aspires to work as a bridge between bits and atoms. The more accurately we can map real-world actions, the more effectively we can coordinate incentives aiming to impact the world in a positive way.
 
 
+
+<figure><img src=".gitbook/assets/555.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Stamp and the Superchain
 
@@ -30,7 +30,9 @@ This approach sees the awakening of Ether’s Phoenix, triumphing over Moloch an
 
 
 
-<figure><img src=".gitbook/assets/atras.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/4444.png" alt="" width="375"><figcaption></figcaption></figure>
+
+
 
 ## What is DePIN?
 

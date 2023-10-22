@@ -5,7 +5,7 @@ Want to be part of the ecosystem? Reach out to [petra@stamp.network](mailto:petr
 
 Here are some partners working on Stamp:
 
-* TraceMy\
+* TraceMy (by Stamp)\
   Decentralized tracking protocol\
   [https://tracemy.tech/](https://tracemy.tech/)
 
