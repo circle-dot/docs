@@ -1,6 +1,6 @@
-# 🧙♂ Ecosystem
+# 🧙‍♂️ Ecosystem
 
-Want to be part of the ecosystem? Reach out to [petra@stamp.network](mailto:petra@stamp.network).\
+Want to be part of the ecosystem? Reach out to [petra@](mailto:petra@stamp.network)[circledot.tech](mailto:petra@circledot.tech).\
 
 
 Here are some partners working on Stamp:

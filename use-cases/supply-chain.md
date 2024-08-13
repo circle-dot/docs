@@ -1,4 +1,8 @@
-# 🛳 Supply Chain
+---
+hidden: true
+---
+
+# 🛳️ Supply Chain
 
 ## Real-time monitoring
 
