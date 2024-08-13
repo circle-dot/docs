@@ -1,14 +1,12 @@
 # Table of contents
 
 * [👋 Welcome to Stamp ⊙](README.md)
-* [👋 Welcome to Stamp ⊙](<README (1).md>)
 
 ## Use Cases
 
 * [Web of Trust for Communities](use-cases/web-of-trust-for-communities.md)
 * [🤖 AI](use-cases/ai.md)
 * [Talent Endorsement](use-cases/talent-endorsement.md)
-* [🛳️ Supply Chain](use-cases/supply-chain.md)
 
 ## About
 

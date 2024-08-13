@@ -9,31 +9,8 @@ description: Attestation engine powering Web of Trust (WoT) networks
 ## What is Stamp Network?
 
 
-
-## Use Cases
-
-
-
 ## What is an attestation?
 
 
+## Use Cases
 
-{% content-ref url="use-cases/ai.md" %}
-[ai.md](use-cases/ai.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="use-cases/supply-chain.md" %}
-[supply-chain.md](use-cases/supply-chain.md)
-{% endcontent-ref %}
