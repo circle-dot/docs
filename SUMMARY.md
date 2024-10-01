@@ -2,6 +2,13 @@
 
 * [👋 Welcome to Stamp ⊙](README.md)
 
+## Devs
+
+* [✨ Getting Started](devs/getting-started.md)
+* [👩‍💻 Tutorials](devs/tutorials/README.md)
+  * [Getting Rank Scores](devs/tutorials/getting-rank-scores.md)
+  * [Verify Credentials](devs/tutorials/verify-credentials.md)
+
 ## Use Cases
 
 * [Web of Trust for Communities](use-cases/web-of-trust-for-communities.md)
@@ -15,7 +22,6 @@
 
 ## Developers
 
-* [⛓️ Getting Started](developers/getting-started.md)
 * [🔧 Tooling](developers/tooling/README.md)
   * [🆔 RoboID](developers/tooling/roboid.md)
   * [🎛️ Access Control](developers/tooling/access-control.md)
