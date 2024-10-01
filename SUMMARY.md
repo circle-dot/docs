@@ -8,6 +8,8 @@
 * [👩‍💻 Tutorials](devs/tutorials/README.md)
   * [Getting Rank Scores](devs/tutorials/getting-rank-scores.md)
   * [Verify Credentials](devs/tutorials/verify-credentials.md)
+* [🆔 RoboID](devs/roboid.md)
+* [🎛️ Access Control](devs/access-control.md)
 
 ## Use Cases
 
@@ -19,9 +21,3 @@
 
 * [🛣️ Roadmap](about/roadmap.md)
 * [🧙‍♂️ Ecosystem](about/ecosystem.md)
-
-## Developers
-
-* [🔧 Tooling](developers/tooling/README.md)
-  * [🆔 RoboID](developers/tooling/roboid.md)
-  * [🎛️ Access Control](developers/tooling/access-control.md)

@@ -1,4 +1,8 @@
-# 🎛 Access Control
+---
+hidden: true
+---
+
+# 🎛️ Access Control
 
 Access control lets developers define what actions can be performed by each human or digital entity. \
 \
