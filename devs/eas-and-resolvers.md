@@ -1,10 +1,61 @@
 # 🗒️ EAS and Resolvers
 
-### Base Mainnet
+### Overview
 
-### -
+The project utilizes the Ethereum Attestation Service (EAS) to create a web of trust system through two main schemas:
 
+* Pretrust Schema
+* Vouch Schema
 
+### Schemas
+
+#### Pretrust Schema
+
+The pretrust schema serves as the seeding group for the web of trust. Its primary purpose is to ensure that each unique Zupass credential is linked to only one Ethereum address.
+
+**Schema Structure:**
+
+```solidity
+bytes32 nullifier,
+bytes32 category,
+bytes32 subcategory,
+bytes32 issuer,
+bytes32 credentialType,
+bytes32 platform
+```
+
+**Schema URL:** [Base EAS Scanner - Pretrust Schema](https://base.easscan.org/schema/view/0xe6428e26d2e2c1a92ac3f5b30014a228940017aa3e621e9f16f02f0ecb748de9)
+
+**Pretrust Resolver**
+
+The pretrust resolver implements the following key functionality:
+
+* Validates Zupass credentials
+* Ensures one-to-one mapping between credentials and addresses
+* Prevents duplicate attestations for the same credential
+
+#### Vouch Schema
+
+The vouch schema represents endorsements between users within the system.
+
+**Schema Structure:**
+
+```solidity
+bytes32 platform,
+bytes32 category,
+bytes32 subCategory
+```
+
+**Schema URL:** [Base EAS Scanner - Vouch Schema](https://base.easscan.org/schema/view/0xb6b4f5642693a970d1c43bfd55b34a6a32cdce692c390958f201a5f529eb6893)
+
+**Vouch Resolver**
+
+The vouch resolver provides the following capabilities:
+
+* Season management by admins
+* Vouch limit enforcement per user per season
+* Admin management system
+* Query interface for season and user data
 
 ### Base Sepolia
 
