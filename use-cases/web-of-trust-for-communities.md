@@ -13,3 +13,7 @@ There are \***tickets\***, which are acquired when purchasing a ticket. These do
 Users can vouch for each other through **\*stamps\***, which are attestations and can be revoked.&#x20;
 
 When a user gets a high trust score, by collecting stamps from other users, a **\*passport\*** is emitted. Each community can define a different threshold that lets users obtain there. Depending on the trust required to safeguard the community, this can be higher or lower.&#x20;
+
+## New communities
+
+To request the inclusion of a new community, for now please contact [petra@circledot.tech](mailto:petra@circledot.tech) . In the future, this might be permissionless. &#x20;
