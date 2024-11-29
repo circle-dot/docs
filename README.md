@@ -18,7 +18,7 @@ An **attestation** refers to a signed statement or proof provided by an entity (
 
 These layers of attestations can take many forms, from creating a web of trust to endorsements for people's skills and capabilities for organizations or AI agents.
 
-##
+
 
 
 

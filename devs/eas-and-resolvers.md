@@ -67,6 +67,8 @@ The vouch resolver provides the following capabilities:
 
 ### Add new Communities and/or Categories
 
+Currently, you need to be whitelisted for this. Join this telegram group for requests: [https://t.me/+BEa8nA1BW-swMzk5](https://t.me/+BEa8nA1BW-swMzk5)&#x20;
+
 1. Head to Resolver Contract
 2. Go to `Read Contract` and then to `getVouchCode`
 3. Go to `Write Contract` and then fill the Code you got from previous step in `setVouchingLimit`&#x20;
