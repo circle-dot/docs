@@ -1,24 +1,29 @@
 ---
-description: Attestation engine
+icon: hand-wave
+cover: https://gitbookio.github.io/onboarding-template-images/header.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 👋 Welcome to Stamp ⊙
+# Welcome
 
-<figure><img src=".gitbook/assets/stamplogo.png" alt="Stamp Logo - A circle and a dot in the middle. All yellow" width="129"><figcaption></figcaption></figure>
+Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
-## What is Stamp Network?
+You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
 
-Stamp is a layer of composable attestations on top of EAS that helps communities understand their members and collaborate, using Zupass as an interoperability & privacy layer.&#x20;
+### Jump right in
 
-## What is an attestation?
-
-An **attestation** refers to a signed statement or proof provided by an entity (usually a user or a smart contract) regarding a specific date or event. In decentralized systems like Ethereum, attestations can be used to validate or confirm facts or actions in a trustless manner, without the need for intermediaries.
-
-## Use Cases
-
-These layers of attestations can take many forms, from creating a web of trust to endorsements for people's skills and capabilities for organizations or AI agents.
-
-
-
-
-
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>

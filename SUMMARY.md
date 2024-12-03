@@ -1,24 +1,17 @@
 # Table of contents
 
-* [👋 Welcome to Stamp ⊙](README.md)
+* [Welcome](README.md)
 
-## Devs
+## Getting Started
 
-* [✨ Getting Started](devs/getting-started.md)
-* [👩‍💻 Tutorials](devs/tutorials/README.md)
-  * [Getting Rank Scores](devs/tutorials/getting-rank-scores.md)
-  * [Verify Credentials](devs/tutorials/verify-credentials.md)
-* [🗒️ EAS and Resolvers](devs/eas-and-resolvers.md)
-* [🆔 RoboID](devs/roboid.md)
-* [🎛️ Access Control](devs/access-control.md)
+* [Quickstart](getting-started/quickstart.md)
+* [Publish your docs](getting-started/publish-your-docs.md)
 
-## Use Cases
+## Basics
 
-* [Web of Trust for Communities](use-cases/web-of-trust-for-communities.md)
-* [🤖 AI Capabilities](use-cases/ai.md)
-* [Talent Endorsement](use-cases/talent-endorsement.md)
-
-## About
-
-* [🛣️ Roadmap](about/roadmap.md)
-* [🧙‍♂️ Ecosystem](about/ecosystem.md)
+* [Editor](basics/editor.md)
+* [Markdown](basics/markdown.md)
+* [Images & media](basics/images-and-media.md)
+* [Interactive blocks](basics/interactive-blocks.md)
+* [OpenAPI](basics/openapi.md)
+* [Integrations](basics/integrations.md)
